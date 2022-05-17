@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1090718787793",
+    "project_id": "moneyhelp-8a17a",
+    "storage_bucket": "moneyhelp-8a17a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090718787793:android:5e4a25309da42c4a953df0",
+        "android_client_info": {
+          "package_name": "com.ptithcm.group9.moneytor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090718787793-477b9098l3m713nsknejq8e6en389hpj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ptithcm.group9.moneytor",
+            "certificate_hash": "5d359f7c8dd750ea829dfd4ad7b8b4c5ad1d76a5"
+          }
+        },
+        {
+          "client_id": "1090718787793-s34fefp9sab88r9gjsbf41pm2vgeclt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlTXc9V2w7AlBE38V-N-vaSQpt_UPIYPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090718787793-s34fefp9sab88r9gjsbf41pm2vgeclt4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
